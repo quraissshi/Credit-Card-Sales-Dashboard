@@ -22,4 +22,4 @@ Each sales executive had a target of 500 sales. The dataset includes:
 - Sales for each day  
 - Calculated performance percentages 
 ```markdown
-![https://github.com/quraissshi/Credit-Card-Sales-Dashboard/blob/main/Credit%20Card%20Sales%20Dashboard%20Screenshot.png?raw=true)
+![Dashboard Screenshot][https://github.com/quraissshi/Credit-Card-Sales-Dashboard/blob/main/Credit%20Card%20Sales%20Dashboard%20Screenshot.png?raw=true)
